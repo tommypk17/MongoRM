@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRM.Data", "MongoRM.Data\MongoRM.Data.csproj", "{A841354E-E999-4AE5-897F-AADF1C2BE4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoRM.DataAccess", "MongoRM.DataAccess\MongoRM.DataAccess.csproj", "{D382C777-36A1-46BE-9044-65168CE70FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D382C777-36A1-46BE-9044-65168CE70FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D382C777-36A1-46BE-9044-65168CE70FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D382C777-36A1-46BE-9044-65168CE70FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D382C777-36A1-46BE-9044-65168CE70FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A841354E-E999-4AE5-897F-AADF1C2BE4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A841354E-E999-4AE5-897F-AADF1C2BE4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
